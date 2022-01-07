@@ -1,6 +1,6 @@
 {
   "name": "ticketing",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "Flash sales shopping website on kubernetes",
   "scripts": {
     "release": "standard-version"
