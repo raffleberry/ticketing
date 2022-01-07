@@ -1,0 +1,22 @@
+{
+  "name": "ticketing",
+  "version": "1.0.0",
+  "description": "Flash sales shopping website on kubernetes",
+  "scripts": {
+    "release": "standard-version"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raffleberry/ticketing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raffleberry/ticketing/issues"
+  },
+  "homepage": "https://github.com/raffleberry/ticketing#readme",
+  "dependencies": {
+    "standard-version": "^9.3.2"
+  }
+}
